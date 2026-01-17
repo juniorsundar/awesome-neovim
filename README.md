@@ -1001,6 +1001,7 @@ then it is not supported:
 - [wsdjeg/ctags.nvim](https://github.com/wsdjeg/ctags.nvim) - Generate tags files and update tags option automatically.
 - [leo-alvarenga/quoth.nvim](https://github.com/leo-alvarenga/quoth.nvim) - A lightweight, configurable random quote provider with lazy loading, custom tables, and filters.
 - [stikypiston/cheaty.nvim](https://github.com/stikypiston/cheaty.nvim) - A simple, configurable cheatsheet.
+- [juniorsundar/cling.nvim](https://github.com/juniorsundar/cling.nvim) - A thin-wrapper around you CLI. Run CLI commands directly from Neovim (asynchronously), wrap your favourite CLI tools within Neovim and autogenerate completions.
 
 ### CSV Files
 
